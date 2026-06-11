@@ -1,2 +1,3 @@
 # FIRST-demo
-first demo
+first demo repository
+Author - Amrita
